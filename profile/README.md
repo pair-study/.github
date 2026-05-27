@@ -6,6 +6,7 @@
 |---|---|---|
 | GitHub | [@ehlung](https://github.com/ehlung) | [@meteorqz6](https://github.com/meteorqz6) |
 | 블로그 | [velog](https://velog.io/@ehlung/posts) | [velog](https://velog.io/@meteorqz6/posts) |
+| 브랜치명 | cactus | hippo |
 
 ---
 
