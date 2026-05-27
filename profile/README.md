@@ -1,16 +1,17 @@
-# Pair Study
+# 🧩 Pair Study
+미션 → 리뷰 → 기록, 페어로 함께 성장하는 스터디
 
-## 멤버
+## 👥 멤버
 
 | | 강예령 | 남유성 |
 |---|---|---|
 | GitHub | [@ehlung](https://github.com/ehlung) | [@meteorqz6](https://github.com/meteorqz6) |
 | 블로그 | [velog](https://velog.io/@ehlung/posts) | [velog](https://velog.io/@meteorqz6/posts) |
-| 브랜치명 | cactus | hippo |
+| 브랜치명 | 🌵 cactus | 🦛 hippo |
 
 ---
 
-## 미션 목록
+## 📋 미션 목록
 
 | # | 미션 | repository README | 키워드 | 블로그 글 |
 |---|---|---|---|---|
@@ -22,7 +23,7 @@
 
 ---
 
-## 진행 방식
+## 🔄 진행 방식
 
 1. 각자 브랜치에서 미션 수행
 2. PR 생성 후 상호 코드 리뷰
@@ -32,18 +33,18 @@
 
 ---
 
-## 규칙
+## 📌 규칙
 
-### 개인 브랜치 README
+### 📝 개인 README
 - 개인 목표
 - 가장 많이 고민한 문제와 해결 과정에서 배운 점 (최소 3가지)
 - _(@ehlung only)_ 과거 코드와 비교 — 달라진 점, 그로부터 배운 점
 
-### PR
+### 🔀 PR
 - 개인 목표 달성 여부
-- 리뷰어에게 논의하고 싶은 부분을 체크리스트로 작성
+- 페어와 논의하고 싶은 부분을 체크리스트로 작성
 
-### 코드 리뷰
+### 💬 코드 리뷰
 
 리뷰 코멘트에는 아래 태그를 붙여 작성해요.
 
