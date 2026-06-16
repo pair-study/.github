@@ -13,13 +13,10 @@
 
 ## 📋 미션 목록
 
-| # | 미션 | repository README | 키워드 | 블로그 글 |
-|---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
+| # | 미션 | repository README | 키워드 |
+|---|---|---|---|
+| 1 | 숫자 야구 게임 - MVC 패턴 적용 | [세션 기록](https://github.com/pair-study/javascript-baseball-precourse/blob/main/README.md) | `MVC`, `ES6 클래스` | 
+| 2 | React 공식 문서 기반 실습 - 음식점 앱 구현 | [세션 기록](https://github.com/pair-study/self-paced-react/blob/main/README.md) | `useState`, `useEffect`, `useCallback` |   
 
 ---
 
@@ -28,8 +25,7 @@
 1. 각자 브랜치에서 미션 수행
 2. PR 생성 후 상호 코드 리뷰
 3. 스터디 세션에서 리뷰 답변 및 논의
-4. 세션 중 학습 키워드 선정 → 각자 블로그 글 작성
-5. 각 미션 repository README에 세션 내용 기록
+4. 각 미션 repository README에 세션 내용 기록
 
 ---
 
