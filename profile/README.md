@@ -36,7 +36,7 @@
 
 #### 📝 개인 README
 - 개인 목표
-- 가장 많이 고민한 문제와 해결 과정에서 배운 점 (최소 3가지)
+- 가장 많이 고민한 문제와 해결 과정에서 배운 점
 - _(@ehlung only)_ 과거 코드와 비교 — 달라진 점, 그로부터 배운 점
 
 #### 🔀 PR
@@ -63,5 +63,4 @@
 - 상세한 내용은 최종 프로젝트 repository README에서 확인할 수 있습니다.
 
 ### 링크
-- 최종 프로젝트 README: `여기에 링크`
-- 최종 프로젝트 repository: `여기에 링크`
+- [최종 프로젝트 repository](https://github.com/pair-study/final-project)
