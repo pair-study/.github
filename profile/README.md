@@ -24,6 +24,7 @@
 |---|---|---|---|
 | 1 | 숫자 야구 게임 - MVC 패턴 적용 | [세션 기록](https://github.com/pair-study/javascript-baseball-precourse/blob/main/README.md) | `MVC`, `ES6 클래스` |
 | 2 | React 공식 문서 기반 실습 - 음식점 앱 구현 | [세션 기록](https://github.com/pair-study/self-paced-react/blob/main/README.md) | `useState`, `useEffect`, `useCallback` |
+| 3 | React 상태 관리 심화 | [세션 기록](https://github.com/pair-study/self-paced-react-advanced/blob/main/README.md) | `Context API`, `Zustand`, `TanStack Query`|
 
 ### 진행 방식
 1. 각자 브랜치에서 미션 수행
